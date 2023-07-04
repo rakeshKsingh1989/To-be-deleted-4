@@ -1,8 +1,8 @@
 # How to Use 
-Download the zip file 
-Unzip the file 
-Open the solution file in visual studio (2022) 
-Build the solution 
+1. Download the zip file 
+2. Unzip the file 
+3. Open the solution file in visual studio (2022) 
+4. Build the solution 
 
 # RestAPITestAutomationSpecFlow
 This is sample dot net project using rest sharp and Specflow for API automation. 
@@ -16,5 +16,6 @@ Project has helper classes to manage your framework in better way
 API Helper - Helper Class to manage RestSharp
 # config file 
 You can update the config settings file to make it work for different environment 
-#Example Feature file and step definition file added for reference 
 
+# Feature file and step definition
+Example Feature file and step definition file added for reference 
